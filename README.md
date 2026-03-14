@@ -130,6 +130,6 @@ Buka **http://localhost:5173** di browser.
 
 <div align="center">
 
-**Dibuat dengan ❤️ menggunakan React + Vite**
+**Dicoding Submission : Aplikasi Catatan Pribadi**
 
 </div>
